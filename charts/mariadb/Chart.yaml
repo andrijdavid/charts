@@ -1,0 +1,27 @@
+annotations:
+  category: Database
+apiVersion: v2
+appVersion: 10.6.11
+dependencies:
+  - name: common
+    repository: https://andrijdavid.github.io/charts
+    tags:
+      - bitnami-common
+    version: 2.x.x
+description: MariaDB is an open source, community-developed SQL database server that is widely in use around the world due to its enterprise features, flexibility, and collaboration with leading tech firms.
+engine: gotpl
+home: https://github.com/andrijdavid/charts/tree/main/charts/mariadb
+icon: https://bitnami.com/assets/stacks/mariadb/img/mariadb-stack-220x234.png
+keywords:
+  - mariadb
+  - mysql
+  - database
+  - sql
+  - prometheus
+maintainers:
+  - name: Andrij David
+    url: https://github.com/andrijdavid/charts
+name: mariadb
+sources:
+  - https://mariadb.org
+version: 11.3.5
