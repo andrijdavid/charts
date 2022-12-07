@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  cloudflared:
+  - apiVersion: v2
+    appVersion: 2022.1.3
+    created: "2022-12-07T19:08:08.169589917Z"
+    description: Creation of a cloudflared deployment - a reverse tunnel for an environment
+    digest: bd1faaee18023de60708d0dc2aa924691f005c3eb0daba94b76feaad32ecb831
+    icon: https://developers.cloudflare.com/cloudflare-one/favicon-32x32.png
+    name: cloudflared
+    type: application
+    urls:
+    - https://github.com/andrijdavid/charts/releases/download/cloudflared-0.1.1/cloudflared-0.1.1.tgz
+    version: 0.1.1
+generated: "2022-12-07T19:08:08.169594917Z"
