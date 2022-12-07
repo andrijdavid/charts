@@ -1,3 +1,4 @@
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/fossa)](https://artifacthub.io/packages/search?repo=fossa)
 # ARM Compatible Helm Charts
 
 This repository contains Helm charts that are compatible for ARM devices, such as the Raspberry Pi 4.
