@@ -12,4 +12,15 @@ entries:
     urls:
     - https://github.com/andrijdavid/charts/releases/download/cloudflared-0.1.1/cloudflared-0.1.1.tgz
     version: 0.1.1
-generated: "2022-12-07T19:08:08.169594917Z"
+  uptime-kuma:
+  - apiVersion: v2
+    appVersion: 1.19.3
+    created: "2023-01-06T12:04:24.474516741Z"
+    description: A Helm chart for Uptime Kuma. A fancy self-hosted monitoring tool.
+    digest: f567e093d9d6a4ec26811ef5d1090a0154b46f7f1a873569fb8c35889c83c6d7
+    name: uptime-kuma
+    type: application
+    urls:
+    - https://github.com/andrijdavid/charts/releases/download/uptime-kuma-1.0.1/uptime-kuma-1.0.1.tgz
+    version: 1.0.1
+generated: "2023-01-06T12:04:24.474529641Z"
